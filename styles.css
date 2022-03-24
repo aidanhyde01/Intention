@@ -1,3 +1,8 @@
 .headers {
     font-family: monospace,Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+#div {
+    align-items: center;
 }

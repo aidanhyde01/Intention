@@ -1,0 +1,1 @@
+Hello! This is a personal project for my idea of a more mindful start up page to your browser. I noticed that I tend to mindlessly hop on my browser all the time I thought this would be a nice idea to sorta change that.
